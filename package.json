@@ -27,5 +27,8 @@
     "chai": "^4.2.0",
     "mocha": "^7.0.1",
     "sinon": "^8.1.1"
+  },
+  "dependencies": {
+    "babel-plugin-remove-debugger": "^1.0.1"
   }
 }
